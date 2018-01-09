@@ -1,7 +1,6 @@
 {
     "name": "sinevia/php-library-fileutils",
     "description": "PHP Library File Utils",
-    "version": "0.0.1",
     "type": "library",
     "keywords": ["file", "utils", "library", "php", "sinevia"],    
     "homepage": "http://github.com/sinevia/php-library-utils",
